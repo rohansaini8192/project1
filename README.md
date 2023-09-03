@@ -1,1 +1,1 @@
-#this is a project to understand git and github.
+# this is a project to understand git and github.
